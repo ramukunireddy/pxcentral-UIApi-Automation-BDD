@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.test.step.definitions.RunCukesTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.583 s - in com.test.step.definitions.RunCukesTest
